@@ -1,0 +1,35 @@
+body {
+  background-image: url(http://www.history.com/s3static/video-thumbnails/AETN-History_VMS/21/201/tdih-jan05-HD.jpg)
+}
+
+.container {
+  text-align: center;
+  padding-top: 50px;
+}
+
+body,
+h1,
+p{
+  color: white;
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+hr {
+  border-bottom: 1px solid white;
+}
+
+.container {
+  text-align: center;
+  padding-top: 50px;
+}
+
+#main {
+  padding-top: 100px;
+  border-style: solid;
+}
+
+.col-md-4 {
+  font-size: 30px;
+}
+
+
